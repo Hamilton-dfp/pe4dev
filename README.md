@@ -1,2 +1,2 @@
 # pe4dev
-Blog and Engineering Process Philosophies
+Blog and Engineering Process Philosophies for Development
